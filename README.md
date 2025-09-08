@@ -1,5 +1,5 @@
-# 💫 About Me:
- Full Stack Developer | MERN Stack Enthusiast – Passionate about building scalable web apps using React, Node.js, Express, and MongoDB.
+# Hi 👋, I'm Talib Hussain Khan
+ A passionate full-stack developer from Pakistan
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talib-hussain-khan-962071279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talibhk161@gmail.com)
 
