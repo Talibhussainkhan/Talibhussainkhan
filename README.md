@@ -1,5 +1,5 @@
 # Hi 👋, I'm Talib Hussain Khan
- A passionate full-stack developer from Pakistan
+I'm a full-stack developer from Karachi, with a passion for building full-stack web apps using NextJS, MongoDB, Express.js, React, and Node.js. I’ve developed 15+ projects, gaining experience in both frontend and backend development. And I'm also interested in cybersecurity. Outside of coding, I enjoy playing cricket and exploring new tech. I'm always learning and aiming to grow as a full-stack developer.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talib-hussain-khan-962071279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talibhk161@gmail.com)
 
